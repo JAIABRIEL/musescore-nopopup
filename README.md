@@ -2,7 +2,7 @@
 
 ## Description
 
-Hide "Please rate this score" popup on MuseScore.com which appears on every sheet when scrolled to the end.
+Hide "Please rate this score" popup on MuseScore.com which appears on every sheet when scrolled to the end. I wasn't able to remove the review popup which appears when closing the download dialog but I highly recommend [musescore-downloader](https://github.com/Xmader/musescore-downloader) by [Xmader](https://github.com/Xmader), so the default options are overwritten anyway.
 
 ## Install
 
